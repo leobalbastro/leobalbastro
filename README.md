@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDA2cHZrb3ZoMGgzYnFxMGV1b296cWl4cmR1OGJtenEzZ2NiMG9ocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"/>
-</div>
+
 <hr>
 <br>
 👨‍💻 Acerca de Mi :
@@ -72,4 +72,4 @@ Con respecto a este repositorio aquí se verán los proyectos de mi formación c
 
   🥇 Top Lenguajes mas usados: <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobalbastro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
