@@ -53,3 +53,23 @@ Con respecto a este repositorio aquí se verán los proyectos de mi formación c
 - [![Mail Badge](https://img.shields.io/badge/leobalbastro-white?style=flat&logo=Gmail&logoColor=red)](mailto:leobalbastro.arg@gmail.com)
 - [![LinkedIn Badge](https://img.shields.io/badge/leobalbastro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leobalbastro/)
 
+  <br>
+  <hr>
+  <h1>🛠️ Languages and Tools :</h1>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="40" height="40"/>
+  </div>
+
+  :fire: Mis estadisticas : <br>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leobalbastro&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  🥇 Top Lenguajes mas usados: <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobalbastro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
