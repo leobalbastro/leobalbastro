@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <hr>
 <div id="badges" align="center">
   Redes donde encontrarme:<br>
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/leobalbastro/)" target="_blank">
+  <a href="https://www.linkedin.com/in/leobalbastro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL" target="_blank">
+  <a href="https://x.com/leobalbastro" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-youtube-URL" target="_blank">
+  <a href="https://leonardonbalbastro.com.ar" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
