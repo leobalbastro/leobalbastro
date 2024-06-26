@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1>Bienvenidos a mi repositorio. Mi nombre es Leonardo Balbastro y soy QA Manual Ssr con 4 años de experiencia, en este repositorio se mostrara mi experiencia en web development!</h1>
+  <h1>Bienvenidos a mi repositorio. Mi nombre es Leonardo Balbastro y este repositorio se mostrara mi experiencia en web development!</h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh5bHBmbnZ0dTJiNTc2dHY3c2YzMzFpdWJ5ajNsemF0cXppbDFwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUm2STzv0N5fl3ezyr/giphy.gif" width="100vw"/>
 </div>
 <hr>
