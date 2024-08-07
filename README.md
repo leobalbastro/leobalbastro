@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1>Bienvenidos a mi repositorio. Mi nombre es Leonardo Balbastro y este repositorio se mostrara mi experiencia en web development!</h1>
+  <h1>Hello I'm Leonardo Balbastro, Developer Backend Javascript Junior</h1>
 </div>
 <hr>
 <div id="badges" align="center">
-  Redes donde encontrarme:<br>
+  Social Network:<br>
   <a href="https://www.linkedin.com/in/leobalbastro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -34,19 +34,17 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <br>
-👨‍💻 Acerca de Mi :
-Soy un Quality Assurance Semisenior (middle-level) con 4 años de experiencia haciendo testing funcionales y no funcionales, mis herramientas son POSTMAN y Jira principalmente, tambien hago Test cases y tengo experiencia con entornos Agile con SCRUM haciendo toda la ceremonia, eso implica Dailies, Retrospectiva y Planning.
-Con respecto a este repositorio aquí se verán los proyectos de mi formación como Fullstack Developer, así como los diferentes proyectos de cursos que haya hecho, el unico repositorio que si se actualizará seguido será el de mi portafolio personal donde podrán ver la evolucion en crudo del repositorio y de mis conocimientos conforme pasaron los años.
+👨‍💻 About me :
+Developer Junior Javascript, Building Fullstack Solutions in Javascript with MERN stack.
 
-- :telescope: Actualmente me encuentro buscando empleo.
+- :telescope: Looking for jobs.
 
-- :seedling: Encontrandome mejorando mi stack, pasando desde javascript a .NET
+- :seedling: Learning .NET 8
 
-- :zap: En mi tiempo libre me gusta jugar videojuegos, actualmente ando con Fallout 4 y Fortnite Festival
+- :zap: I love to play games, study and working on my social skills
 
-- :mailbox: puedes contactarte conmigo en:
-- [![Mail Badge](https://img.shields.io/badge/leobalbastro-white?style=flat&logo=Gmail&logoColor=red)](mailto:leobalbastro.arg@gmail.com)
-- [![LinkedIn Badge](https://img.shields.io/badge/leobalbastro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leobalbastro/)
+- :mailbox: Mail: [![Mail Badge](https://img.shields.io/badge/leobalbastro-white?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:leobalbastro.arg@gmail.com)
+
 
   <br>
   <hr>
@@ -54,13 +52,10 @@ Con respecto a este repositorio aquí se verán los proyectos de mi formación c
   <h1>🛠️ Languages and Tools :</h1>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="40" height="40"/>
   </div>
 
   :fire: Mis estadisticas : <br>
