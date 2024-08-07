@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h1>Bienvenidos a mi repositorio. Mi nombre es Leonardo Balbastro y este repositorio se mostrara mi experiencia en web development!</h1>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh5bHBmbnZ0dTJiNTc2dHY3c2YzMzFpdWJ5ajNsemF0cXppbDFwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUm2STzv0N5fl3ezyr/giphy.gif" width="100vw"/>
 </div>
 <hr>
 <div id="badges" align="center">
@@ -32,10 +31,6 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=leobalbastro&style=flat-square&color=blue" alt="count viewer" width="200vw"/>
-</div>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDA2cHZrb3ZoMGgzYnFxMGV1b296cWl4cmR1OGJtenEzZ2NiMG9ocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"/>
 </div>
 <hr>
 <br>
