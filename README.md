@@ -1,3 +1,6 @@
+> [!NOTE]
+> This profile is evolving and being modified continuously so please be aware of this.
+
 <div align="center">
   <h1>Hello I'm Leonardo Balbastro.
 </div>
@@ -15,9 +18,9 @@
 <hr>
 <br>
 👨‍💻 About me :
-Backend Developer 
+Backend Developer Prospective | Java | SQL
 
-- :telescope: Looking for jobs.
+- :telescope: Looking for job.
 
 - :seedling: Learning Java (from 7 to 21)
 
@@ -29,16 +32,21 @@ Backend Developer
   <div align="center">
   <h1>🛠️ Languages and Tools :</h1>
   <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40" />&nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="spring" width="40" height="40"/>&nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  title="Git" alt="git" width="40" height="40"/>&nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" alt="angular" width="40" height="40"/>&nbsp;
   </div>
-
-  :fire: Mis estadisticas : <br>
+  <div>
+    <h1>Best Projects</h1>
+    
+> TODO
+  </div>
+<!--   :fire: Mis estadisticas : <br>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leobalbastro&theme=dark&background=000000)](https://git.io/streak-stats)
 
   🥇 Top Lenguajes mas usados: <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobalbastro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  -->
 </div>
