@@ -1,22 +1,8 @@
-<!--
-**leobalbastro/leobalbastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
-  <h1>Hello I'm Leonardo Balbastro, Developer Backend Javascript Junior</h1>
+  <h1>Hello I'm Leonardo Balbastro.
 </div>
 <hr>
-<div id="badges" align="center">
+<div id="badges" align="middle">
   Social Network:<br>
   <a href="https://www.linkedin.com/in/leobalbastro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,26 +10,18 @@ Here are some ideas to get you started:
   <a href="https://x.com/leobalbastro" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://leonardonbalbastro.com.ar" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leobalbastro&style=flat-square&color=blue" alt="count viewer" width="200vw"/>
-</div>
+
 <hr>
 <br>
 👨‍💻 About me :
-Developer Junior Javascript, Building Fullstack Solutions in Javascript with MERN stack.
+Backend Developer 
 
 - :telescope: Looking for jobs.
 
-- :seedling: Learning .NET 8
+- :seedling: Learning Java (from 7 to 21)
 
-- :zap: I love to play games, study and working on my social skills
-
-- :mailbox: Mail: [![Mail Badge](https://img.shields.io/badge/leobalbastro-white?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:leobalbastro.arg@gmail.com)
+- :mailbox: Mail: leobalbastro.arg@gmail.com
 
 
   <br>
